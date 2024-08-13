@@ -52,4 +52,4 @@ else:
          print("incorrect !")           
 
 # to print our score
-print("Your score out of 5yes is: ",count)        
+print("Your score out of 5 is: ",count)        
